@@ -1,0 +1,19 @@
+Jarod England
+Username: jkenglan
+
+
+
+Results: I accomplished all the tutorials and necessary files I needed to make. I have not ever set up git hub the way we have and I have not ever used emacs before, but I was able
+to set them up without a problem.  What did not work well was trying to compile my hello.c for the first time. 
+
+
+
+Difficulties: The main difficulty that I faced was that I typed 
+gcc -o hello.c hello.c and also 
+gcc hello.c -o hello.c and had to rewrite the program a couple of times because this corrupted the file when gcc ran. I overcame this issue by typing the command correctly. All of the other tutorials seemed to go by smoothly, but it did seem like I might have 
+spent too much time practicing and testing out Unix commands.
+
+
+
+What I learned: I learned how to set up git on my computer and also learned a lot of new Unix commands which I did not know before.  I did not know how certain functions worked in Unix worked and I also especially didn’t know about the whatis command. I also have not ever used the sleep command before this lab which seemed like an interesting function. It seems like it would have practical uses in programming too such as if you want to set a 
+timer.
