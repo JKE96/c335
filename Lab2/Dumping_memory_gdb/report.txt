@@ -1,0 +1,8 @@
+1.I am Jarod England username: jkenglan. I did not get to part 4 before class was over and I was not assigned any partner.
+
+2.I accomplished the entire lab.  The dump.c file modification was extremely difficult but I believe I was able to make a working file.  
+
+3. I was unsure on how to convert the memory into floats and doublefloats and it took a lot of trial and error to get the current solution that I currently have. The wikipedia article seemed diffucult for me to comprehend and it took some time for me to find what could help me find the necessary information.
+
+4. I learned how to start up gdb. I'm still a little confused on how it works exactly. I also learned about memory adresses and how to convert what is stored in the memory into several forms and especially learned the syntax which is used to print this information. I also learned that you can use cat and pipe to pass information in text files to a program.
+

@@ -1,8 +1,17 @@
 #include <stdio.h>
 
-    //
-    // poly.c
-    //
+    /**********************************************************
+ * * poly.c
+ * *
+ * * These definitions create and dumps raw data
+ * *
+ * * Author: Jarod England U:jkenglan with no partner
+ * * Date Created: 9/2/16
+ * * Last Modified by: 9/9/16
+ * * Date Last Modified: 9/9/16
+ * * Assignment: Lab 02
+ * * Part of: poly
+ * */
 
     typedef union {
       unsigned char ccc[8];
@@ -14,6 +23,8 @@
 
     extern void dump_memory(void *, int);
 
+//this is the main function, starts the main poly function that creates and then dumps raw data
+//return value is 0 on main functions
     int main() {
       int i;
       Poly rawdata[6];
