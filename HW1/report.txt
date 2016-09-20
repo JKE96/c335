@@ -9,4 +9,4 @@ This is the report file for HW1
 5. Largest function in the executable HW1.elf is malloc_r
 6. Overall size of the executable HW1.elf in bytes is 60311
 
-
+Note: I went to office hours and then forgot to upload these files to github immediately.
