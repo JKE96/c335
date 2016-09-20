@@ -1,3 +1,12 @@
+/*
+#Author: Jarod England                                                                     
+#Date created: 9/14/16                                                                  
+#Last Modified by: Jarod England                                                      
+#Date last modified: 9/14/16                                                              
+#Assignment HW1                                                                          
+#part of c335 
+*/
+
 #include <stdio.h>
 
 extern int inc(int);
