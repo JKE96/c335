@@ -2,4 +2,11 @@ Jarod England jkenglan
 
 This is the report file for HW1
 
-1.
+1. The address and size of the global variable state is address:00012fe8 size:4 
+2. The address and size of the global variable state_counter is address:00012fec size:4
+3. The starting address and size of the function stop_light() is address:00008af9 size:144
+4. The starting address and size of the function inc() is address:00008ba1 size:0
+5. Largest function in the executable HW1.elf is malloc_r
+6. Overall size of the executable HW1.elf in bytes is 60311
+
+
