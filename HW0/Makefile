@@ -1,9 +1,11 @@
 CC = gcc
-CFLAGS = -g
-LDFLAGS = -g
 
-mywc: mywc.o
-	$(CC) $(LDFLAGS) -o mywc mywc.o
+rpn: rpn.o
+	$(CC) rpn.o -o rpn
 
-mywc.o: mywc.c
-	$(CC) $(CFLAGS) -c mywc.c
+rpn.o: rpn.c
+	$(CC) -c rpn.c
+
+clean:
+	rm -f rpn
+	rm -f rpn.o

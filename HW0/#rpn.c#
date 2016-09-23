@@ -41,8 +41,8 @@ int pop(){ //releases the value at the top of the stack
     }
     int value = stack->val;
     //printf("POP! : %d\n", value);
-    LIST *spot = stack;
-    stack = stack->next;
+    LIST *spot;
+     = stack->next;
     free(spot);
     return value;
 }
@@ -66,7 +66,7 @@ int main(){
     char str [1000];
     stack = malloc(sizeof(LIST));
     stack->next ='\0';
-    stack->val = '\0';
+    
     while(scanf("%s", str) != EOF && strncmp(str, "q", 1) != 0){ //continues while scanf does not equal EOF or and str != q
         
         if (strncmp(str, "p", 1) == 0 && stack->val=='\0'){ //if p is inputted
