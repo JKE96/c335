@@ -1,0 +1,6 @@
+Jarod England
+
+Currently it is late at night and I have worked on this program for a while. I will have to go to office hours to fix some of my mistakes because
+currently the program is nearly exceeding 75 lines which the instructions says that it is likely wrong if doing so. I have managed to convert the hex
+to a binary number and then check what kind of operation will be used on it, but the if statements' conditions are very large because it is checking
+each piece of the numbers at a time, which seems to be a problem.
